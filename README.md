@@ -5,7 +5,7 @@
 
 I am a second-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
 - 🔭 I’m currently working on contributing to open source.
-- 🌱 I’m currently learning **Node.js**.
+- 🌱 I’m currently learning **MERN Stack**.
 - 🤔 I’m looking for help with Open Source Contributing.
 - 💬 Ask me about competitive programming.
 
@@ -34,3 +34,7 @@ I am a second-year engineering student at Indraprastha University (New Delhi), p
     <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
   </a>
 </p>
+
+### 📈 Github Stats:
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivmsingh&show_icons=true&count_private=true&theme=react" />

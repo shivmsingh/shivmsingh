@@ -3,6 +3,7 @@
 
 ### 🙋‍♂️About Me:
 
+I am a second-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
 - 🔭 I’m currently working on contributing to open source.
 - 🌱 I’m currently learning **Node.js**.
 - 🤔 I’m looking for help with Open Source Contributing.
@@ -33,5 +34,3 @@
     <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
   </a>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivmsingh&show_icons=true)

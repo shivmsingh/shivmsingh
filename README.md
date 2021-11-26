@@ -1,4 +1,3 @@
- Today at 2:00 PM
 ## Hey 👋, I'm [Shivam](https://shivmsingh.netlify.app/)!
 
 ### 🙋‍♂️About Me:

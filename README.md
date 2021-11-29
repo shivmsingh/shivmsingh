@@ -36,4 +36,4 @@ I am a second-year engineering student at Indraprastha University (New Delhi), p
 
 ### 📈 Github Stats:
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivmsingh&show_icons=true&count_private=true&theme=react" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivmsingh&show_icons=true&count_private=true&theme=dracula" />

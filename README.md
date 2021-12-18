@@ -32,6 +32,9 @@ I am a second-year engineering student at Indraprastha University (New Delhi), p
   <a href="mailto:shivmsingh02@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
   </a>
+   <a href="https://drive.google.com/file/d/1iwIL5K1pJw8AdfvFL8Enl7L2WU0nBtjl/view?usp=sharing">
+    <img src="https://img.icons8.com/color/50/000000/resume.png"/>
+  </a>
 </p>
 
 ### 📈 Github Stats:

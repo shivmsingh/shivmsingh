@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️About Me:
 
-I am a second-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
+I am a third-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
 - 🔭 I’m currently working on contributing to open source.
 - 🌱 I’m currently learning **MERN Stack**.
 - 🤔 I’m looking for help with Open Source Contributing.

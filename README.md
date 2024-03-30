@@ -2,15 +2,15 @@
 
 ### 🙋‍♂️About Me:
 
-I am a third-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
+I am a final-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
 - 🔭 I’m currently working on contributing to open source.
-- 🌱 I’m currently learning **MERN Stack**.
-- 🤔 I’m looking for help with Open Source Contributing.
-- 💬 Ask me about competitive programming.
+- 💬 Ask me about Full Stack Development and Linux.
 
 ### 👨‍💻 Tech & Tools:
 
 <p align="center">
+
+  <img src="https://img.icons8.com/icon/Pd2x9GWu9ovX/java"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
